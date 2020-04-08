@@ -1,4 +1,4 @@
 require_relative "./teacher.rb"
-class Student 
+class Student
 
 end
